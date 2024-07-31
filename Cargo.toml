@@ -1,6 +1,6 @@
 [package]
 name = "display_json"
-version = "0.2.1"
+version = "0.2.2-beta1"
 authors = ["jofas <jonas@fc-web.de>"]
 edition = "2018"
 license = "MIT"
@@ -10,6 +10,7 @@ keywords = ["Display", "Debug", "FromStr", "json", "serde"]
 homepage = "https://github.com/jofas/display_json"
 repository = "https://github.com/jofas/display_json"
 documentation = "https://docs.rs/display_json"
+publish = ["franklin-ai-rosalind"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
